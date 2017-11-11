@@ -1,7 +1,8 @@
 # SelfDriveDIP
-Objective: To simulate a self Driving car using Udacity's open source emulator.
 
-### Dependencies:
+## Objective: To simulate a self Driving car using Udacity's open source emulator.
+
+### Dependencies Used:
     - python==3.5.2
     - numpy
     - matplotlib
