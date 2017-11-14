@@ -2,6 +2,16 @@
 
 ## Objective: To simulate a self Driving car using Udacity's open source emulator.
 
+### How do self Driving cars generally work?
+
+**Think about an analogy where we humans are driving. We continuously take inputs from our surroundings and simultaneously process it in order to make decisions on which way to turn the steering wheel.
+This can be translated into a machine problem called SLAM or Simultaneous Localization and Mapping.**
+
+Traditionally, self driving car has been about Reinforcement Learning algorithms to continuously correct its driving capabilities but that's not enough.
+You also need to predict the actions of others along with your own actions so that you don't come across speeding cars and dead babies.
+
+This project is an implementation of the paper published by NVidia. NVidia 
+
 ### Dependencies Used:
     - python==3.5.2
     - numpy
