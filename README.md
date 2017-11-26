@@ -11,8 +11,6 @@ This can be translated into a machine problem called SLAM or Simultaneous Locali
 Traditionally, self driving car has been about Reinforcement Learning algorithms to continuously correct its driving capabilities but that's not enough. Roads are complex! There are weather conditions that requires you to change the way you accelerate, different kind of road signs and situations that we probably could never predict.
 You also need to predict the actions of others along with your own actions so that you don't come across speeding cars and dead babies or Pokemons.
 
-Various 
-
 This project is an implementation of the paper published by NVidia.
 
 ### Dependencies Used:
