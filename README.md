@@ -1,5 +1,4 @@
 # SelfDriveDIP
-### NOTE: This project is a work in progress.
 
 ## Objective: To simulate a self Driving car using Udacity's open source emulator.
 
